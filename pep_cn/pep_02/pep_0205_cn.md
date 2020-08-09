@@ -1,15 +1,15 @@
 
-PEP: 205
-Title: Weak References
-Version: $Revision$
-Last-Modified: $Date$
-Author: Fred L. Drake, Jr. <fdrake@acm.org>
-Status: Final
-Type: Standards Track
-Content-Type: text/x-rst
-Created:
-Python-Version: 2.1
-Post-History: 11-Jan-2001
+PEP: 205  
+Title: Weak References  
+Version: $Revision$  
+Last-Modified: $Date$  
+Author: Fred L. Drake, Jr. <fdrake@acm.org>  
+Status: Final  
+Type: Standards Track  
+Content-Type: text/x-rst  
+Created:  
+Python-Version: 2.1  
+Post-History: 11-Jan-2001  
 
 Motivation
 ==========
